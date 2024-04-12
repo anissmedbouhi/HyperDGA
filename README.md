@@ -11,7 +11,7 @@ To get started, create a conda environment from the yaml file: HyperDGA_environm
 For the experiments 1 and 2, one needs to first train a Hyperbolic VAE with synthetic dataset using the code at: https://github.com/pfnet-research/hyperbolic_wrapped_distribution <br />
 
 For the experiment 3, one needs to first get the Poincaré embeddings of Olsson, Paul and Planaria datasets using the code from: https://github.com/facebookresearch/PoincareMaps/tree/main <br />
-For convenience we put these embeddings as a pickle file called "dict_data_xxx.pkl" in the current folder. <br />
+For convenience we put these embeddings as pickle files called "dict_data_xxx.pkl" in the current folder. <br />
 
 Part of our code for the Voronoi diagram is from Devert Alexandre: https://gist.github.com/marmakoide/45d5389252683ae09c2df49d0548a627#file-laguerre-voronoi-2d-py <br />
 Part of our code for the synthetic dataset and the Hyperbolic VAE is from https://github.com/pfnet-research/hyperbolic_wrapped_distribution
