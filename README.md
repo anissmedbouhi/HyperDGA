@@ -12,6 +12,7 @@ Our main codes, following the order of our experiments in the paper, are in the 
   <li>https://github.com/anissmedbouhi/HyperDGA/blob/main/HyperDGA_notebook_Experiment_3.ipynb</li>
 </ol> 
 To get started, create a conda environment from the yaml file: HyperDGA_environment.yml <br />
+<br />
 
 For the experiments 1 and 2, one needs to first train a Hyperbolic VAE with synthetic dataset using the code at: https://github.com/pfnet-research/hyperbolic_wrapped_distribution <br />
 
